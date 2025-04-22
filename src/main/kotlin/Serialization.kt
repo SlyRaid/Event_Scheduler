@@ -61,15 +61,9 @@ fun Application.configureSerialization(repository: TaskRepository) {
             }
 
             post {
-                try {
-                    val task = call.receive<Task>()
-                    repository.addTask(task)
-                    call.respond(HttpStatusCode.NoContent)
-                } catch (ex: IllegalStateException) {
-                    call.respond(HttpStatusCode.BadRequest)
-                } catch (ex: JsonConvertException) {
-                    call.respond(HttpStatusCode.BadRequest)
-                }
+                val task = call.receive<Task>()
+                val createdEvent = repository.addTask(task)
+                call.respond(HttpStatusCode.Created, createdEvent)
             }
 
             patch("/byId/{taskId}") {

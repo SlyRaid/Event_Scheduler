@@ -43,6 +43,7 @@ class PostgresTaskRepository : TaskRepository {
             name = task.name
             description = task.description
             priority = task.priority.toString()
+            scheduledAt = task.scheduledAt
         }
     }
 
