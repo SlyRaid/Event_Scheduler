@@ -1,0 +1,9 @@
+2025-04-24 16:23:50.581 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-24 16:23:50.770 [main] INFO  Application - Application started in 0.449 seconds.
+2025-04-24 16:23:51.095 [DefaultDispatcher-worker-3] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-24 16:23:51.223 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
+2025-04-24 16:23:51.223 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
+2025-04-24 16:23:51.223 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (game) в 2025-04-22T15:26:41
+2025-04-24 16:23:56.291 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
+2025-04-24 16:23:56.292 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
+2025-04-24 16:23:56.292 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (game) в 2025-04-22T15:26:41

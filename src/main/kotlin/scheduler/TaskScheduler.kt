@@ -1,4 +1,4 @@
-package com.example.scheduler
+package scheduler
 
 import com.example.db.TaskDAO
 import com.example.db.suspendTransaction

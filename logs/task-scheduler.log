@@ -1,105 +1,295 @@
-2025-04-22 14:19:56.774 [main] INFO  Application - Autoreload is disabled because the development mode is off.
-2025-04-22 14:19:56.958 [main] INFO  Application - Application started in 0.396 seconds.
-2025-04-22 14:19:57.249 [DefaultDispatcher-worker-3] INFO  Application - Responding at http://127.0.0.1:8080
-2025-04-22 14:19:57.271 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:19:57.272 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:20:02.334 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:20:02.334 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:20:07.392 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:20:07.392 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:20:12.447 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:20:12.447 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:37:40.005 [main] INFO  Application - Autoreload is disabled because the development mode is off.
-2025-04-22 14:37:40.190 [main] INFO  Application - Application started in 0.392 seconds.
-2025-04-22 14:37:40.452 [DefaultDispatcher-worker-3] INFO  Application - Responding at http://127.0.0.1:8080
-2025-04-22 14:37:40.475 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:37:40.475 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:37:45.546 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:37:45.546 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:37:50.606 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:37:50.606 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:37:55.657 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:37:55.657 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:00.711 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:00.711 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:05.764 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:05.764 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:10.816 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:10.816 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:15.863 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:15.863 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:20.921 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:20.921 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:25.979 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:25.980 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:31.034 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:31.035 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:36.084 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:36.085 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:41.139 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:41.139 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:46.192 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:46.193 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:51.248 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:51.248 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:38:56.299 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:38:56.300 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:01.348 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:01.348 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:06.394 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:06.395 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:11.447 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:11.452 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:16.504 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:16.504 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:21.560 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:21.560 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:26.619 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:26.620 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:31.677 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:31.677 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:36.734 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:36.735 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:41.797 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:41.798 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:46.852 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:46.852 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:51.897 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:51.897 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:39:56.941 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:39:56.941 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:01.988 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:01.988 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:07.043 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:07.043 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:12.097 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:12.098 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:17.162 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:17.162 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:22.212 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:22.212 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:27.260 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:27.260 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:32.307 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:32.307 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:37.371 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:37.371 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:42.423 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:42.423 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:47.479 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:47.479 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:52.533 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:52.533 [DefaultDispatcher-worker-2] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:40:57.596 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:40:57.596 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:41:02.646 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:41:02.646 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:41:07.696 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:41:07.696 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:41:12.742 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:41:12.742 [DefaultDispatcher-worker-1] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:41:17.804 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
-2025-04-22 14:41:17.804 [DefaultDispatcher-worker-3] INFO  com.example.scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
-2025-04-22 14:48:27.761 [main] INFO  Application - Autoreload is disabled because the development mode is off.
-2025-04-22 14:48:27.952 [main] INFO  Application - Application started in 0.42 seconds.
-2025-04-22 14:48:28.212 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 11:31:17.533 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 11:31:17.680 [main] INFO  Application - Application started in 0.389 seconds.
+2025-04-25 11:31:17.964 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 12:52:47.855 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 12:52:48.019 [main] INFO  Application - Application started in 0.378 seconds.
+2025-04-25 12:52:48.269 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 12:59:59.624 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:02:13.059 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:02:47.968 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:07:30.312 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:08:29.434 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:08:29.575 [main] INFO  Application - Application started in 0.344 seconds.
+2025-04-25 13:08:29.805 [DefaultDispatcher-worker-2] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 13:10:40.210 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:17:18.097 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:18:24.507 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:22:51.134 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:23:10.715 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:23:51.405 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:23:51.531 [main] INFO  Application - Application started in 0.315 seconds.
+2025-04-25 13:23:51.755 [DefaultDispatcher-worker-2] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 13:27:38.508 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:27:38.640 [main] INFO  Application - Application started in 0.371 seconds.
+2025-04-25 13:27:38.883 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 13:27:57.831 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:27:57.954 [main] INFO  Application - Application started in 0.317 seconds.
+2025-04-25 13:27:58.177 [DefaultDispatcher-worker-2] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 13:30:41.797 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:30:41.934 [main] INFO  Application - Application started in 0.347 seconds.
+2025-04-25 13:30:42.170 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 13:32:49.757 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:32:49.897 [main] INFO  Application - Application started in 0.333 seconds.
+2025-04-25 13:32:50.131 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 13:40:52.356 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:40:52.496 [main] INFO  Application - Application started in 0.345 seconds.
+2025-04-25 13:40:52.731 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 13:44:37.107 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 13:44:37.236 [main] INFO  Application - Application started in 0.314 seconds.
+2025-04-25 13:44:37.456 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 14:10:15.489 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 14:10:15.638 [main] INFO  Application - Application started in 0.348 seconds.
+2025-04-25 14:10:15.864 [DefaultDispatcher-worker-2] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 14:50:58.957 [Test worker] INFO  o.testcontainers.images.PullPolicy - Image pull policy will be performed by: DefaultPullPolicy()
+2025-04-25 14:50:58.963 [Test worker] INFO  o.t.utility.ImageNameSubstitutor - Image name substitution will be performed by: DefaultImageNameSubstitutor (composite of 'ConfigurationFileImageNameSubstitutor' and 'PrefixingImageNameSubstitutor')
+2025-04-25 14:50:59.182 [Test worker] INFO  o.t.d.DockerClientProviderStrategy - Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2025-04-25 14:50:59.433 [Test worker] INFO  o.t.d.DockerClientProviderStrategy - Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2025-04-25 14:50:59.434 [Test worker] INFO  o.testcontainers.DockerClientFactory - Docker host IP address is localhost
+2025-04-25 14:50:59.444 [Test worker] INFO  o.testcontainers.DockerClientFactory - Connected to docker: 
+  Server Version: 28.0.4
+  API Version: 1.48
+  Operating System: Docker Desktop
+  Total Memory: 15951 MB
+2025-04-25 14:50:59.465 [Test worker] INFO  tc.testcontainers/ryuk:0.5.1 - Creating container for image: testcontainers/ryuk:0.5.1
+2025-04-25 14:50:59.979 [Test worker] INFO  o.t.utility.RegistryAuthLocator - Credential helper/store (docker-credential-desktop) does not have credentials for https://index.docker.io/v1/
+2025-04-25 14:51:00.122 [Test worker] INFO  tc.testcontainers/ryuk:0.5.1 - Container testcontainers/ryuk:0.5.1 is starting: 8d5a901bae3f8baf80052d8e599b4dcb9ab7064e13e89fa171ad19ab36756f5b
+2025-04-25 14:51:00.764 [Test worker] INFO  tc.testcontainers/ryuk:0.5.1 - Container testcontainers/ryuk:0.5.1 started in PT1.298851S
+2025-04-25 14:51:00.771 [Test worker] INFO  o.t.utility.RyukResourceReaper - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2025-04-25 14:51:00.772 [Test worker] INFO  o.testcontainers.DockerClientFactory - Checking the system...
+2025-04-25 14:51:00.773 [Test worker] INFO  o.testcontainers.DockerClientFactory - ✔︎ Docker server version should be at least 1.6.0
+2025-04-25 14:51:00.773 [Test worker] INFO  tc.postgres:16 - Creating container for image: postgres:16
+2025-04-25 14:51:00.871 [Test worker] INFO  tc.postgres:16 - Container postgres:16 is starting: a8a8475752a0267dfa10d030dc9ac6c0af6afc3e64d03db3efe27b742d1b78c6
+2025-04-25 14:51:02.628 [Test worker] INFO  tc.postgres:16 - Container postgres:16 started in PT1.8551453S
+2025-04-25 14:51:02.630 [Test worker] INFO  tc.postgres:16 - Container is started (JDBC URL: jdbc:postgresql://localhost:59255/testdb?loggerLevel=OFF)
+2025-04-25 14:51:05.296 [DefaultDispatcher-worker-1 @coroutine#5] INFO  scheduler.TaskScheduler - !!! Событие наступило: (Test Task) в 2025-04-25T14:51:04.961148
+2025-04-25 14:51:06.309 [DefaultDispatcher-worker-3 @coroutine#5] INFO  scheduler.TaskScheduler - !!! Событие наступило: (Test Task) в 2025-04-25T14:51:04.961148
+2025-04-25 14:51:07.329 [DefaultDispatcher-worker-2 @coroutine#5] INFO  scheduler.TaskScheduler - !!! Событие наступило: (Test Task) в 2025-04-25T14:51:04.961148
+2025-04-25 15:46:20.316 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 15:46:20.468 [main] INFO  Application - Application started in 0.362 seconds.
+2025-04-25 15:46:20.768 [DefaultDispatcher-worker-3] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 15:46:20.797 [DefaultDispatcher-worker-3] INFO  scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
+2025-04-25 15:46:20.798 [DefaultDispatcher-worker-3] INFO  scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
+2025-04-25 15:46:20.798 [DefaultDispatcher-worker-3] INFO  scheduler.TaskScheduler - !!! Событие наступило: (game) в 2025-04-22T15:26:41
+2025-04-25 15:46:20.798 [DefaultDispatcher-worker-3] INFO  scheduler.TaskScheduler - !!! Событие наступило: (magazin) в 2025-03-05T14:26:41
+2025-04-25 15:46:25.867 [DefaultDispatcher-worker-2] INFO  scheduler.TaskScheduler - !!! Событие наступило: (cleaning) в 2025-04-08T14:26:36
+2025-04-25 15:46:25.867 [DefaultDispatcher-worker-2] INFO  scheduler.TaskScheduler - !!! Событие наступило: (shopping) в 2025-03-05T14:26:41
+2025-04-25 15:46:25.867 [DefaultDispatcher-worker-2] INFO  scheduler.TaskScheduler - !!! Событие наступило: (game) в 2025-04-22T15:26:41
+2025-04-25 15:46:25.867 [DefaultDispatcher-worker-2] INFO  scheduler.TaskScheduler - !!! Событие наступило: (magazin) в 2025-03-05T14:26:41
+2025-04-25 15:46:38.130 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 15:46:38.264 [main] INFO  Application - Application started in 0.35 seconds.
+2025-04-25 15:46:38.505 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 17:25:34.842 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 17:25:34.851 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.023 seconds.
+2025-04-25 17:25:34.854 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 17:25:34.854 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 17:29:50.081 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 17:29:50.223 [main] INFO  Application - Application started in 0.341 seconds.
+2025-04-25 17:29:50.468 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 17:33:17.934 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 17:35:44.505 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 17:35:44.705 [main] INFO  Application - Application started in 0.429 seconds.
+2025-04-25 17:35:44.969 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 17:44:33.368 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 17:44:33.505 [main] INFO  Application - Application started in 0.343 seconds.
+2025-04-25 17:44:33.767 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 18:04:58.956 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 18:04:59.096 [main] INFO  Application - Application started in 0.344 seconds.
+2025-04-25 18:04:59.344 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 18:09:05.211 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:09:05.261 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - Application started in 0.06 seconds.
+2025-04-25 18:09:05.263 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:09:05.263 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:09:12.300 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:09:12.351 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - Application started in 0.065 seconds.
+2025-04-25 18:09:12.354 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:09:12.354 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:09:25.970 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:09:26.019 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - Application started in 0.06 seconds.
+2025-04-25 18:09:26.021 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:09:26.021 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:09:32.797 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:09:32.847 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - Application started in 0.06 seconds.
+2025-04-25 18:09:32.849 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:09:32.849 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:10:26.922 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:10:26.969 [DefaultDispatcher-worker-2 @call-context#5] INFO  io.ktor.test - Application started in 0.058 seconds.
+2025-04-25 18:10:26.971 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:10:26.971 [DefaultDispatcher-worker-3 @coroutine#6] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:10:27.133 [DefaultDispatcher-worker-1 @call-context#19] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:10:27.135 [DefaultDispatcher-worker-1 @call-context#19] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:10:27.135 [DefaultDispatcher-worker-3 @coroutine#20] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:10:27.135 [DefaultDispatcher-worker-3 @coroutine#20] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:10:27.149 [DefaultDispatcher-worker-3 @call-context#33] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:10:27.151 [DefaultDispatcher-worker-3 @call-context#33] INFO  io.ktor.test - Application started in 0.001 seconds.
+2025-04-25 18:10:27.151 [DefaultDispatcher-worker-9 @coroutine#34] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:10:27.151 [DefaultDispatcher-worker-9 @coroutine#34] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:10:27.164 [DefaultDispatcher-worker-2 @call-context#47] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:10:27.166 [DefaultDispatcher-worker-2 @call-context#47] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:10:27.166 [DefaultDispatcher-worker-1 @coroutine#48] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:10:27.166 [DefaultDispatcher-worker-1 @coroutine#48] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:11:29.618 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:11:29.671 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - Application started in 0.065 seconds.
+2025-04-25 18:11:29.673 [DefaultDispatcher-worker-1 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:11:29.674 [DefaultDispatcher-worker-1 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:11:47.959 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 18:11:48.101 [main] INFO  Application - Application started in 0.343 seconds.
+2025-04-25 18:11:48.355 [DefaultDispatcher-worker-2] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 18:13:25.816 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2025-04-25 18:13:25.955 [main] INFO  Application - Application started in 0.335 seconds.
+2025-04-25 18:13:26.193 [DefaultDispatcher-worker-1] INFO  Application - Responding at http://127.0.0.1:8080
+2025-04-25 18:13:50.976 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:13:51.027 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.063 seconds.
+2025-04-25 18:13:51.029 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:13:51.030 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:15:47.801 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:15:47.849 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - Application started in 0.062 seconds.
+2025-04-25 18:15:47.851 [DefaultDispatcher-worker-1 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:15:47.852 [DefaultDispatcher-worker-1 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:16:41.567 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:16:41.612 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.057 seconds.
+2025-04-25 18:16:41.615 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:16:41.616 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:18:30.751 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:18:30.806 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.067 seconds.
+2025-04-25 18:18:30.809 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:18:30.809 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:19:47.908 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:19:47.951 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.054 seconds.
+2025-04-25 18:19:47.953 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:19:47.954 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:20:30.228 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:20:30.267 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.051 seconds.
+2025-04-25 18:20:30.270 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:20:30.270 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:20:30.406 [DefaultDispatcher-worker-2 @call-context#17] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:20:30.408 [DefaultDispatcher-worker-2 @call-context#17] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:20:30.409 [DefaultDispatcher-worker-4 @coroutine#18] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:20:30.409 [DefaultDispatcher-worker-4 @coroutine#18] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:20:30.428 [DefaultDispatcher-worker-6 @call-context#29] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:20:30.429 [DefaultDispatcher-worker-6 @call-context#29] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:20:30.429 [DefaultDispatcher-worker-1 @coroutine#30] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:20:30.429 [DefaultDispatcher-worker-1 @coroutine#30] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:20:30.453 [DefaultDispatcher-worker-9 @call-context#43] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:20:30.454 [DefaultDispatcher-worker-9 @call-context#43] INFO  io.ktor.test - Application started in 0.001 seconds.
+2025-04-25 18:20:30.455 [DefaultDispatcher-worker-8 @coroutine#44] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:20:30.455 [DefaultDispatcher-worker-8 @coroutine#44] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:20:30.464 [DefaultDispatcher-worker-7 @call-context#55] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:20:30.465 [DefaultDispatcher-worker-7 @call-context#55] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:20:30.465 [DefaultDispatcher-worker-4 @coroutine#56] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:20:30.465 [DefaultDispatcher-worker-4 @coroutine#56] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:20:30.485 [DefaultDispatcher-worker-2 @call-context#69] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:20:30.487 [DefaultDispatcher-worker-2 @call-context#69] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:20:30.487 [DefaultDispatcher-worker-11 @coroutine#70] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:20:30.487 [DefaultDispatcher-worker-11 @coroutine#70] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:20:30.501 [DefaultDispatcher-worker-8 @call-context#83] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:20:30.503 [DefaultDispatcher-worker-8 @call-context#83] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:20:30.503 [DefaultDispatcher-worker-3 @coroutine#84] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:20:30.503 [DefaultDispatcher-worker-3 @coroutine#84] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:20:30.510 [DefaultDispatcher-worker-6 @call-context#95] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:20:30.511 [DefaultDispatcher-worker-6 @call-context#95] INFO  io.ktor.test - Application started in 0.001 seconds.
+2025-04-25 18:20:30.511 [DefaultDispatcher-worker-11 @coroutine#96] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:20:30.512 [DefaultDispatcher-worker-11 @coroutine#96] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:21:00.793 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:21:00.842 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.061 seconds.
+2025-04-25 18:21:00.845 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:21:00.845 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:21:05.969 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:21:06.017 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - Application started in 0.062 seconds.
+2025-04-25 18:21:06.021 [DefaultDispatcher-worker-1 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:21:06.021 [DefaultDispatcher-worker-1 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:22:37.868 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:22:37.917 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.06 seconds.
+2025-04-25 18:22:37.920 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:22:37.920 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:23:48.106 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:23:48.156 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.063 seconds.
+2025-04-25 18:23:48.158 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:23:48.159 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:25:25.508 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:25:25.548 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - Application started in 0.051 seconds.
+2025-04-25 18:25:25.551 [DefaultDispatcher-worker-1 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:25:25.551 [DefaultDispatcher-worker-1 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:25:25.675 [DefaultDispatcher-worker-2 @call-context#17] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:25:25.677 [DefaultDispatcher-worker-2 @call-context#17] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:25:25.677 [DefaultDispatcher-worker-3 @coroutine#18] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:25:25.677 [DefaultDispatcher-worker-3 @coroutine#18] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:25:25.696 [DefaultDispatcher-worker-4 @call-context#29] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:25:25.698 [DefaultDispatcher-worker-4 @call-context#29] INFO  io.ktor.test - Application started in 0.001 seconds.
+2025-04-25 18:25:25.698 [DefaultDispatcher-worker-8 @coroutine#30] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:25:25.698 [DefaultDispatcher-worker-8 @coroutine#30] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:25:25.707 [DefaultDispatcher-worker-4 @call-context#43] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:25:25.709 [DefaultDispatcher-worker-4 @call-context#43] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:25:25.709 [DefaultDispatcher-worker-1 @coroutine#44] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:25:25.709 [DefaultDispatcher-worker-1 @coroutine#44] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:25:25.717 [DefaultDispatcher-worker-3 @call-context#55] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:25:25.718 [DefaultDispatcher-worker-3 @call-context#55] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:25:25.718 [DefaultDispatcher-worker-11 @coroutine#56] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:25:25.718 [DefaultDispatcher-worker-11 @coroutine#56] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:25:25.739 [DefaultDispatcher-worker-1 @call-context#69] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:25:25.741 [DefaultDispatcher-worker-1 @call-context#69] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:25:25.741 [DefaultDispatcher-worker-8 @coroutine#70] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:25:25.741 [DefaultDispatcher-worker-8 @coroutine#70] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:25:25.755 [DefaultDispatcher-worker-2 @call-context#83] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:25:25.756 [DefaultDispatcher-worker-2 @call-context#83] INFO  io.ktor.test - Application started in 0.001 seconds.
+2025-04-25 18:25:25.757 [DefaultDispatcher-worker-1 @coroutine#84] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:25:25.757 [DefaultDispatcher-worker-1 @coroutine#84] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:25:25.763 [DefaultDispatcher-worker-5 @call-context#95] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:25:25.765 [DefaultDispatcher-worker-5 @call-context#95] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:25:25.765 [DefaultDispatcher-worker-7 @coroutine#96] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:25:25.765 [DefaultDispatcher-worker-7 @coroutine#96] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:26:55.595 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:26:55.640 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.056 seconds.
+2025-04-25 18:26:55.644 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:26:55.644 [DefaultDispatcher-worker-2 @coroutine#4] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:26:55.766 [DefaultDispatcher-worker-5 @call-context#17] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:26:55.768 [DefaultDispatcher-worker-5 @call-context#17] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:26:55.768 [DefaultDispatcher-worker-3 @coroutine#18] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:26:55.768 [DefaultDispatcher-worker-3 @coroutine#18] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:26:55.788 [DefaultDispatcher-worker-4 @call-context#29] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:26:55.789 [DefaultDispatcher-worker-4 @call-context#29] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:26:55.789 [DefaultDispatcher-worker-7 @coroutine#30] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:26:55.789 [DefaultDispatcher-worker-7 @coroutine#30] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:26:55.812 [DefaultDispatcher-worker-7 @call-context#43] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:26:55.814 [DefaultDispatcher-worker-7 @call-context#43] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:26:55.814 [DefaultDispatcher-worker-9 @coroutine#44] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:26:55.814 [DefaultDispatcher-worker-9 @coroutine#44] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:26:55.821 [DefaultDispatcher-worker-10 @call-context#55] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:26:55.823 [DefaultDispatcher-worker-10 @call-context#55] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:26:55.823 [DefaultDispatcher-worker-1 @coroutine#56] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:26:55.823 [DefaultDispatcher-worker-1 @coroutine#56] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:26:55.844 [DefaultDispatcher-worker-4 @call-context#69] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:26:55.846 [DefaultDispatcher-worker-4 @call-context#69] INFO  io.ktor.test - Application started in 0.002 seconds.
+2025-04-25 18:26:55.846 [DefaultDispatcher-worker-11 @coroutine#70] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:26:55.846 [DefaultDispatcher-worker-11 @coroutine#70] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:26:55.859 [DefaultDispatcher-worker-7 @call-context#83] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:26:55.860 [DefaultDispatcher-worker-7 @call-context#83] INFO  io.ktor.test - Application started in 0.001 seconds.
+2025-04-25 18:26:55.861 [DefaultDispatcher-worker-1 @coroutine#84] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:26:55.861 [DefaultDispatcher-worker-1 @coroutine#84] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:26:55.867 [DefaultDispatcher-worker-12 @call-context#95] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2025-04-25 18:26:55.868 [DefaultDispatcher-worker-12 @call-context#95] INFO  io.ktor.test - Application started in 0.001 seconds.
+2025-04-25 18:26:55.868 [DefaultDispatcher-worker-4 @coroutine#96] INFO  io.ktor.test - Responding at http://localhost:80
+2025-04-25 18:26:55.868 [DefaultDispatcher-worker-4 @coroutine#96] INFO  io.ktor.test - Responding at https://localhost:443
+2025-04-25 18:27:16.740 [Test worker] INFO  o.testcontainers.images.PullPolicy - Image pull policy will be performed by: DefaultPullPolicy()
+2025-04-25 18:27:16.746 [Test worker] INFO  o.t.utility.ImageNameSubstitutor - Image name substitution will be performed by: DefaultImageNameSubstitutor (composite of 'ConfigurationFileImageNameSubstitutor' and 'PrefixingImageNameSubstitutor')
+2025-04-25 18:27:16.939 [Test worker] INFO  o.t.d.DockerClientProviderStrategy - Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2025-04-25 18:27:17.162 [Test worker] INFO  o.t.d.DockerClientProviderStrategy - Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2025-04-25 18:27:17.163 [Test worker] INFO  o.testcontainers.DockerClientFactory - Docker host IP address is localhost
+2025-04-25 18:27:17.173 [Test worker] INFO  o.testcontainers.DockerClientFactory - Connected to docker: 
+  Server Version: 28.0.4
+  API Version: 1.48
+  Operating System: Docker Desktop
+  Total Memory: 15951 MB
+2025-04-25 18:27:17.191 [Test worker] INFO  tc.testcontainers/ryuk:0.5.1 - Creating container for image: testcontainers/ryuk:0.5.1
+2025-04-25 18:27:33.136 [Test worker] INFO  o.t.utility.RegistryAuthLocator - Credential helper/store (docker-credential-desktop) does not have credentials for https://index.docker.io/v1/
+2025-04-25 18:27:33.380 [Test worker] INFO  tc.testcontainers/ryuk:0.5.1 - Container testcontainers/ryuk:0.5.1 is starting: 17f7783e3068d728ee1342adb82fc15f2934ad18b7e4dc3609423338d9edd2b2
+2025-04-25 18:27:34.179 [Test worker] INFO  tc.testcontainers/ryuk:0.5.1 - Container testcontainers/ryuk:0.5.1 started in PT16.98757S
+2025-04-25 18:27:34.186 [Test worker] INFO  o.t.utility.RyukResourceReaper - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2025-04-25 18:27:34.186 [Test worker] INFO  o.testcontainers.DockerClientFactory - Checking the system...
+2025-04-25 18:27:34.187 [Test worker] INFO  o.testcontainers.DockerClientFactory - ✔︎ Docker server version should be at least 1.6.0
+2025-04-25 18:27:34.187 [Test worker] INFO  tc.postgres:16 - Creating container for image: postgres:16
+2025-04-25 18:27:34.395 [Test worker] INFO  tc.postgres:16 - Container postgres:16 is starting: f650b64b91f50b4ea52b76970e2afe932fc5e4b273697836aa782442ee3ced93
+2025-04-25 18:27:36.410 [Test worker] INFO  tc.postgres:16 - Container postgres:16 started in PT2.2224789S
+2025-04-25 18:27:36.411 [Test worker] INFO  tc.postgres:16 - Container is started (JDBC URL: jdbc:postgresql://localhost:51244/testdb?loggerLevel=OFF)
+2025-04-25 18:27:39.081 [DefaultDispatcher-worker-3 @coroutine#5] INFO  scheduler.TaskScheduler - !!! Событие наступило: (Test Task) в 2025-04-25T18:27:38.740683
+2025-04-25 18:27:40.100 [DefaultDispatcher-worker-1 @coroutine#5] INFO  scheduler.TaskScheduler - !!! Событие наступило: (Test Task) в 2025-04-25T18:27:38.740683
+2025-04-25 18:27:41.122 [DefaultDispatcher-worker-2 @coroutine#5] INFO  scheduler.TaskScheduler - !!! Событие наступило: (Test Task) в 2025-04-25T18:27:38.740683

@@ -9,6 +9,7 @@ import org.jetbrains.exposed.sql.SchemaUtils
 import org.jetbrains.exposed.sql.transactions.TransactionManager
 import org.junit.jupiter.api.*
 import org.testcontainers.containers.PostgreSQLContainer
+import scheduler.TaskScheduler
 import java.sql.Connection
 import java.time.LocalDateTime
 import kotlin.time.Duration.Companion.seconds
@@ -70,3 +71,5 @@ class TaskSchedulerTest {
         Assertions.assertTrue(tasks.isNotEmpty())
     }
 }
+
+
