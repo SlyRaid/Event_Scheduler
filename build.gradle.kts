@@ -1,3 +1,5 @@
+val ktorVersion = "2.3.7"
+val kotlinVersion = "2.1.10"
 
 plugins {
     alias(libs.plugins.kotlin.jvm)
@@ -20,35 +22,39 @@ repositories {
 }
 
 dependencies {
-    implementation("org.jetbrains.exposed:exposed-java-time:0.60.0")
-    implementation("io.ktor:ktor-server-config-yaml:3.1.2")
+    // --- Основные зависимости ---
+    implementation("io.ktor:ktor-server-core:$ktorVersion")
+    implementation("io.ktor:ktor-server-netty:$ktorVersion")
+    implementation("io.ktor:ktor-server-content-negotiation:$ktorVersion")
+    implementation("io.ktor:ktor-serialization-kotlinx-json:$ktorVersion")
+    implementation("ch.qos.logback:logback-classic:1.4.11")
+    implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.6.2")
+    implementation("io.ktor:ktor-server-config-yaml:$ktorVersion")
+
+    // --- Exposed ---
     implementation("org.jetbrains.exposed:exposed-core:0.60.0")
     implementation("org.jetbrains.exposed:exposed-dao:0.60.0")
     implementation("org.jetbrains.exposed:exposed-jdbc:0.60.0")
-    implementation("io.ktor:ktor-client-core:3.1.2")
-    implementation("io.ktor:ktor-client-cio:3.1.2")
-    implementation("io.ktor:ktor-client-serialization:3.1.2")
-    implementation("io.ktor:ktor-client-content-negotiation:3.1.2")
-    implementation("io.ktor:ktor-serialization-kotlinx-json:3.1.2")
-    implementation("ch.qos.logback:logback-classic:1.4.11")
-    implementation("io.ktor:ktor-server-core:3.1.2")
-    implementation("io.ktor:ktor-server-netty:3.1.2")
-    implementation("io.ktor:ktor-server-status-pages:3.1.2")
-    implementation("org.postgresql:postgresql:42.7.5")
-    implementation("io.ktor:ktor-server-content-negotiation:3.1.2")
-    implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.6.2")
+    implementation("org.jetbrains.exposed:exposed-java-time:0.60.0")
     implementation("org.jetbrains.exposed:exposed-kotlin-datetime:0.60.0")
 
+    // --- PostgreSQL ---
+    implementation("org.postgresql:postgresql:42.7.5")
 
+    // --- Ktor Client (если нужен) ---
+    implementation("io.ktor:ktor-client-core:$ktorVersion")
+    implementation("io.ktor:ktor-client-cio:$ktorVersion")
+    implementation("io.ktor:ktor-client-content-negotiation:$ktorVersion")
+    implementation("io.ktor:ktor-client-serialization:$ktorVersion")
+
+    // --- Тесты ---
+    testImplementation("io.ktor:ktor-server-tests:$ktorVersion")
+    testImplementation("io.ktor:ktor-server-test-host:$ktorVersion")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.7.3")
+    testImplementation("org.jetbrains.kotlin:kotlin-test") // <-- Только ЭТО, без JUnit 5
+    testImplementation("io.mockk:mockk:1.13.9")
     testImplementation("org.testcontainers:junit-jupiter:1.19.3")
     testImplementation("org.testcontainers:postgresql:1.19.3")
-    testImplementation("org.jetbrains.exposed:exposed-core:0.60.0")
-    testImplementation("org.jetbrains.exposed:exposed-dao:0.60.0")
-    testImplementation("org.jetbrains.exposed:exposed-jdbc:0.60.0")
-    testImplementation("org.jetbrains.exposed:exposed-java-time:0.60.0")
-
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.0")
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.10.0")
 
 }
 

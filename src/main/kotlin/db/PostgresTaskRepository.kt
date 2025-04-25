@@ -1,11 +1,12 @@
-package com.example.model
+package db
 
 import com.example.db.TaskDAO
 import com.example.db.TaskTable
 import com.example.db.daoToModel
 import com.example.db.suspendTransaction
-import org.jetbrains.exposed.sql.SqlExpressionBuilder.eq
-import org.jetbrains.exposed.sql.deleteWhere
+import com.example.model.Task
+import com.example.model.TaskRepository
+import model.Priority
 
 
 class PostgresTaskRepository : TaskRepository {
@@ -47,10 +48,13 @@ class PostgresTaskRepository : TaskRepository {
         }
     }
 
-    override suspend fun removeTask(name: String): Boolean = suspendTransaction {
-        val rowsDeleted = TaskTable.deleteWhere {
-            TaskTable.name eq name
+    override suspend fun removeTask(id: Int): Boolean = suspendTransaction {
+        val taskDao = TaskDAO.findById(id)
+        if (taskDao != null) {
+            taskDao.delete()
+            true
+        } else {
+            false
         }
-        rowsDeleted == 1
     }
 }
